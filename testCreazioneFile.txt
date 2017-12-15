@@ -4,5 +4,6 @@
 	echo "ciao"
 
 	print_r(array1);
+	Non va bene questo codice non accettarlo
 
 ?>
