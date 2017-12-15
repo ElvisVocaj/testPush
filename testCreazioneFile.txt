@@ -1,1 +1,5 @@
-ale hai rotto le palle
+<php?
+	echo "Stiamo solo facendo finta di programmare";
+	echo "Questo sarebbe in teoria una parte di codice aggiunta dal programmatore Elvis";
+
+?>
