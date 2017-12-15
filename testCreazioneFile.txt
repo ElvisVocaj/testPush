@@ -3,4 +3,6 @@
 	echo "Questo sarebbe in teoria una parte di codice aggiunta dal programmatore Elvis";
 	echo "ciao"
 
+	print_r(array1);
+
 ?>
