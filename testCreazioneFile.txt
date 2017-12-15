@@ -6,5 +6,6 @@
 	print_r(array1);
 	eco "Andiamo avanti e vediamo di fare il merge";
 	echo "ciao zio";
+	echo "Develop";
 
 ?>
